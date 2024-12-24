@@ -1,0 +1,5 @@
+id,Name,Age,Gender,BoolVal
+1,John,28.8,M,True
+2,Emily,23.9,F,False
+3,Mike,35.8,M,False
+4,Lisa,31.5,F,False
